@@ -3,7 +3,10 @@
 
 <h2>TODO :</h2>
 
-- Add translations
+- add translations
+- add composer file
+- css classes needs to be changed to some custom ones so they won't be overridden
+- enhance documentation 
 
 <h2>Contributing</h2>
 
